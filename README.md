@@ -1,7 +1,7 @@
 ## Hey there ;)
 
 - I'm a random guy who enjoys various machine learning stuff
-- I also enjoy languages such as Python, Ruby or JS
+- I also enjoy working with languages such as Python, Ruby or JS
 - I'm currently studying at VŠB-TUO
 - Most of my repos are private
 
