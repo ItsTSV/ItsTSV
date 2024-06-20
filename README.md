@@ -3,5 +3,6 @@
 - I'm a random guy who enjoys various machine learning stuff
 - I also enjoy languages such as Python, Ruby or JS
 - I'm currently studying at VŠB-TUO
+- Most of my repos are hidden 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsTSV)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
