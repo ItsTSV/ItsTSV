@@ -1,7 +1,7 @@
 ## Hey there ;)
 
-- I'm a random guy who enjoys various machine learning, deep learning and computer vision stuff
-- I also enjoy working with languages such as Python or Ruby
+- Random guy who does various machine learning, deep learning and computer vision stuff
+- Python enjoyer
 - I'm currently studying at VŠB-TUO
 - Most of my repos are private (because they would really need refactoring...)
 - Hobbies: literature, gaming, hockey
